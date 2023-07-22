@@ -43,3 +43,18 @@ http://dev107.developer24x7.com/test_project/wp-json/wp-jwt/v1/profile
 http://dev107.developer24x7.com/test_project/wp-json/wp-jwt/v1/apply-leave-list
 
 https://documenter.postman.com/preview/16058878-a1b0a5fd-2519-4ced-8936-d65fd5909b1a?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
+
+
+
+// timer added
+https://stackoverflow.com/questions/68134405/react-component-using-hooks-sync-state-count-down-time-with-local-storage
+
+// postman docs
+https://documenter.getpostman.com/view/16058878/Tzm3odJx#8370776e-7d62-42ee-8445-eec7d3c2a1e9
+
+
+
+
+
+
+
