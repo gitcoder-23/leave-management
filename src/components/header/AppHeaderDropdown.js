@@ -21,6 +21,7 @@ const AppHeaderDropdown = () => {
   const makeLogout = (e) => {
     e.preventDefault()
     localStorage.removeItem('lMuserDataToken')
+    sessionStorage.removeItem('singleChat')
     toast.warn('Success! Logout Successfully')
     window.location.reload()
   }
