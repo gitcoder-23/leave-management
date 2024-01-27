@@ -536,7 +536,7 @@ const EmployeeLeaveDetails = (props) => {
 
   // Chat
   const viewChat = (id) => {
-    // console.log('viewChat', id)
+    console.log('viewChat-id=>', id)
     singleData(id)
     sessionStorage.setItem('singleChat', id)
     getChat(id)
